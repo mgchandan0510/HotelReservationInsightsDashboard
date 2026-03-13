@@ -22,7 +22,8 @@ This page presents high-level metrics that summarize booking activity.
 
 These metrics help management quickly understand **overall demand patterns and booking behavior**.
 
-![Overview Dashboard](Images/01_overview_page.png)
+### Overview Page
+![Overview Page](Images/01_overview_page.jpg)
 ---
 
 ### 2. Cancellations Page
@@ -36,7 +37,8 @@ This section focuses on analyzing cancellation patterns and identifying factors 
 
 Understanding these patterns enables hotels to **develop strategies to minimize revenue loss from cancellations**.
 
-![Cancellations Page](Images/02_cancellations_page.png)
+### Cancellations Page
+![Cancellations Page](Images/02_cancellations_page.jpg)
 ---
 
 ### 3. Operational Insights Page
@@ -50,7 +52,8 @@ This page highlights guest preferences and operational utilization metrics.
 
 These insights help the hotel align its services with **customer preferences and operational demand**.
 
-![Operational Insights Page](Images/03_operations_page.png)
+### Operational Insights Page
+![Operations Page](Images/03_operations_page.jpg)
 ---
 
 ## Dataset Details
